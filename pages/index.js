@@ -17,6 +17,7 @@ export default function Home() {
   )
 }
 
+// to-get tmdb api
 
 // export async function getServerSideProps(context){
   // const genre = context.query.genre;
