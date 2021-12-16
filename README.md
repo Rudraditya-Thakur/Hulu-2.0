@@ -2,6 +2,18 @@
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+## Initial Setup And Running The WebApp
+    1. Go To https://www.themoviedb.org/
+    2. Login or Create Account
+    3. Go to Settings >> API >> Copy Your "API-KEY" (v3 auth)
+    4. If You don't have an api key then create it
+    5. git clone https://github.com/Rudraditya-Thakur/Hulu-2.0-Clone.git
+    6. cd Hulu-2.0-Clone/
+    7. touch .env.local
+    8. Fill in the Following details
+            API_KEY="YOUR-API-KEY"
+    9. npm run dev
+
 ## Getting Started
 
 First, run the development server:
