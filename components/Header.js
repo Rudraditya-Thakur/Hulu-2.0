@@ -18,13 +18,12 @@ function Header() {
                 <HeaderItem title="SEARCH" Icon={SearchIcon} />
                 <HeaderItem title="ACCOUNT" Icon={UserIcon} />
             </div>
-            <Image src="https://links.papareact.com/ua6" 
+            <Image src="/hulu-logo.png" 
             className="object-contain"
             width={200} height={100}
             />
         </header>
     )
 }
-
 
 export default Header
